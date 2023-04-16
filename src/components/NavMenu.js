@@ -14,14 +14,6 @@ const NavMenu = (args) => {
                 dark
             >
                 <NavbarBrand href="/">
-                    {/* <img
-                        alt="logo"
-                        src="/logo-white.svg"
-                        style={{
-                            height: 40,
-                            width: 40
-                        }}
-                    /> */}
                     Astronomy Picture of the Day
                 </NavbarBrand>
             </Navbar>
